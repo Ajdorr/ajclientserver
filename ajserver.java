@@ -1,5 +1,5 @@
-import java.net.*;
 import java.io.*;
+import java.net.*;
 
 public class ajserver implements Runnable {
 	public ajserverdata sdata = null;
